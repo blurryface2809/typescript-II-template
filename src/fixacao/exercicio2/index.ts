@@ -34,10 +34,10 @@ const posts = [
   }
 ]
 
-function buscarPostsPorAutor(posts, autorInformado) {
-  return posts.filter(
-    (post) => {
-      return post.autor === autorInformado
-    }
-  )
-}
+// function buscarPostsPorAutor(posts, autorInformado) {
+//   return posts.filter(
+//     (post) => {
+//       return post.autor === autorInformado
+//     }
+//   )
+// }
